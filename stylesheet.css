@@ -5,3 +5,7 @@ p{
 body{
     background-color: paleturquoise;
 }
+h1{
+    font-size: larger;
+    color: green;
+}
