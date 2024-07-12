@@ -1,3 +1,6 @@
+*{
+    padding: none;
+}
 p{
     color: red;
     background-color: aquamarine;
